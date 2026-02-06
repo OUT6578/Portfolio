@@ -40,7 +40,7 @@ const portfolioData = {
     location: "Noida Sector 58",
     linkedin: "https://www.linkedin.com/in/mernDevesh",
     github: "https://github.com/OUT6578/InterViewHub",
-    website: "https://devesh-portfolio.vercel.app",
+    website: "https://devesh9565portfolio.netlify.app/",
     avatar: profilePic,
     summary:
       "Associate React.js Developer with 1 year of experience crafting responsive, user-centric web applications. Expert in modern React.js, TypeScript, and state management, integrating REST APIs and optimizing performance in Agile environments.",
