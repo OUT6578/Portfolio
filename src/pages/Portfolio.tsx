@@ -135,7 +135,8 @@ const TypingEffect = ({
   const [displayText, setDisplayText] = useState("");
 
   useEffect(() => {
-    let timeoutId: NodeJS.Timeout;
+    // let timeoutId: NodeJS.Timeout;
+    let timeoutId: ReturnType<typeof setTimeout>;
     const startTyping = () => {
       let i = 0;
       const type = () => {
